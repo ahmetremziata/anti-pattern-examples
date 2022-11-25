@@ -1,6 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 using God_Object.Business;
+using God_Object.Business.Enums;
 using God_Object.Business.Interfaces;
 using God_Object.Dto;
 
@@ -27,8 +28,8 @@ namespace God_Object
                 City = "İstanbul",
                 District = "Silivri",
                 Address = "address",
-                OrderStatusId = 1,
-                PaymentStatusId = 1,
+                OrderStatusId = OrderStatus.Approved.GetHashCode(),
+                PaymentStatusId = PaymentStatus.Created.GetHashCode(),
             };
             
             orderBusiness.CreateOrder(order);

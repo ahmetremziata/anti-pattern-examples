@@ -1,0 +1,15 @@
+/Users/ahmet.ata/Desktop/codes/code-examples/anti-pattern-examples/god-object-case/bin/Debug/net5.0/God-Object.deps.json
+/Users/ahmet.ata/Desktop/codes/code-examples/anti-pattern-examples/god-object-case/bin/Debug/net5.0/God-Object.runtimeconfig.json
+/Users/ahmet.ata/Desktop/codes/code-examples/anti-pattern-examples/god-object-case/bin/Debug/net5.0/God-Object.runtimeconfig.dev.json
+/Users/ahmet.ata/Desktop/codes/code-examples/anti-pattern-examples/god-object-case/bin/Debug/net5.0/God-Object.dll
+/Users/ahmet.ata/Desktop/codes/code-examples/anti-pattern-examples/god-object-case/bin/Debug/net5.0/ref/God-Object.dll
+/Users/ahmet.ata/Desktop/codes/code-examples/anti-pattern-examples/god-object-case/bin/Debug/net5.0/God-Object.pdb
+/Users/ahmet.ata/Desktop/codes/code-examples/anti-pattern-examples/god-object-case/obj/Debug/net5.0/God-Object.csprojAssemblyReference.cache
+/Users/ahmet.ata/Desktop/codes/code-examples/anti-pattern-examples/god-object-case/obj/Debug/net5.0/God-Object.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ahmet.ata/Desktop/codes/code-examples/anti-pattern-examples/god-object-case/obj/Debug/net5.0/God-Object.AssemblyInfoInputs.cache
+/Users/ahmet.ata/Desktop/codes/code-examples/anti-pattern-examples/god-object-case/obj/Debug/net5.0/God-Object.AssemblyInfo.cs
+/Users/ahmet.ata/Desktop/codes/code-examples/anti-pattern-examples/god-object-case/obj/Debug/net5.0/God-Object.csproj.CoreCompileInputs.cache
+/Users/ahmet.ata/Desktop/codes/code-examples/anti-pattern-examples/god-object-case/obj/Debug/net5.0/God-Object.dll
+/Users/ahmet.ata/Desktop/codes/code-examples/anti-pattern-examples/god-object-case/obj/Debug/net5.0/ref/God-Object.dll
+/Users/ahmet.ata/Desktop/codes/code-examples/anti-pattern-examples/god-object-case/obj/Debug/net5.0/God-Object.pdb
+/Users/ahmet.ata/Desktop/codes/code-examples/anti-pattern-examples/god-object-case/obj/Debug/net5.0/God-Object.genruntimeconfig.cache
