@@ -1,5 +1,6 @@
 ﻿using System.Collections.Generic;
 using God_Object.Business;
+using God_Object.Business.Enums;
 using God_Object.Business.Interfaces;
 using God_Object.Dto;
 
@@ -27,8 +28,8 @@ namespace God_Object
                 City = "İstanbul",
                 District = "Silivri",
                 Address = "address",
-                OrderStatusId = 1,
-                PaymentStatusId = 1,
+                OrderStatusId = OrderStatus.Approved.GetHashCode(),
+                PaymentStatusId = PaymentStatus.Created.GetHashCode(),
             };
             
             orderBusiness.CreateOrder(order);
@@ -40,7 +41,7 @@ namespace God_Object
                     Amount = 20,
                     ProductName = "Product1",
                     Quantity = 1,
-                    Type = 1
+                    Type = OrderItemType.Product.GetHashCode()
                 },
                 new()
                 {
@@ -48,7 +49,7 @@ namespace God_Object
                     Amount = 10,
                     ProductName = "Product2",
                     Quantity = 2,
-                    Type = 1
+                    Type = OrderItemType.Product.GetHashCode()
                 }
             };
             orderBusiness.AddItemsToOrder(1, addedOrderItems);
