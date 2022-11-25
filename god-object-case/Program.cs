@@ -41,7 +41,7 @@ namespace God_Object
                     Amount = 20,
                     ProductName = "Product1",
                     Quantity = 1,
-                    Type = 1
+                    Type = OrderItemType.Product.GetHashCode()
                 },
                 new()
                 {
@@ -49,7 +49,7 @@ namespace God_Object
                     Amount = 10,
                     ProductName = "Product2",
                     Quantity = 2,
-                    Type = 1
+                    Type = OrderItemType.Product.GetHashCode()
                 }
             };
             orderBusiness.AddItemsToOrder(1, addedOrderItems);
