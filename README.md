@@ -2,3 +2,4 @@
 - God object/class
 - Profileferation of code
 - Boat anchor
+- Functional Decomposition
