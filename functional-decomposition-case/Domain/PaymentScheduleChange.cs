@@ -7,7 +7,7 @@ namespace functional_decomposition_case.Dto
     {
         public void AlterPaymentSchedule(Customer customer)
         {
-            Console.WriteLine("Changing payment schedule to spesific customer " + customer);
+            Console.WriteLine("Changing payment schedule to specific customer " + customer);
         }
     }
 }
