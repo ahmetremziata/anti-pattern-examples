@@ -34,7 +34,7 @@ namespace functional_decomposition_case
             changeCustomerFinancialStatus.ChangeFinancialStatus(customer);
             
             Console.WriteLine(
-                $"Customer load added for customer; {customer}, loanTotal:{loanTotal} loanInterestTotal:{loadInterestTotal}");
+                $"Customer loan added for customer; {customer}, loanTotal:{loanTotal} loanInterestTotal:{loadInterestTotal}");
         }
     }
 }
