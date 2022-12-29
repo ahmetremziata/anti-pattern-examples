@@ -1,6 +1,6 @@
 # anti-pattern-examples
 - God object/class
-- Profileferation of code
+- Poltergeist
 - Boat anchor
 - Functional Decomposition
 - Yo-yo Problem
